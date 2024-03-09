@@ -2,6 +2,6 @@
 
 > Fast Router php framework
 
-## 참고
+## Reference
 
 - https://github.com/nikic/FastRoute
